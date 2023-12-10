@@ -10,8 +10,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Divya0606",
-    resume:"https://drive.google.com/file/d/1DiCy_yS5VhQlN_V4gN5aFbxiJ6FM8Go-/view?usp=sharing",
-      
+    resume:"https://drive.google.com/file/d/1QaCEk2ZP5n554dghpapa4YORaomtAiYA/view",
     linkedin: "https://www.linkedin.com/in/divya-agarwal0808/",
     twitter: "https://twitter.com/DIVYAAGARWAL06",
     insta: "https://www.instagram.com/divyaagarwal0808/",
