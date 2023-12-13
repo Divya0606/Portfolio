@@ -307,7 +307,8 @@ export const projects = [
     description:
     "Developed and implemented a responsive front-end colouring project using HTML, CSS, and JavaScript and gained hands-on experience in UI/UX design principles.",
     image:
-      "https://github.com/Divya0606/Portfolio-Images/blob/main/Screenshot%202023-12-09%20145054.png?raw=true",
+      "https://github.com/Divya0606/Portfolio/blob/main/src/images/Pigment.png?raw=true",
+     // "https://github.com/Divya0606/Portfolio-Images/blob/main/Screenshot%202023-12-09%20145054.png?raw=true",
     //  "https://private-user-images.githubusercontent.com/110676881/289261243-27462bb5-52a0-45c3-9b42-c51382554d93.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTQwMjYsIm5iZiI6MTcwMjExMzcyNiwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYxMjQzLTI3NDYyYmI1LTUyYTAtNDVjMy05YjQyLWM1MTM4MjU1NGQ5My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTIyMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05N2NiMWZjYTk3Njk2NTdiNDE1NTUwYWFlNDJjOGIyMzVjOTVhNDExOWRmZWVmMTE0OGI5OGI3ZGJhMzlhMGE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.sV1j7e_arHOkeHXaE32wcxjIEM3IZIjqPw2Ke-VedWc",
 
       
