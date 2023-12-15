@@ -236,7 +236,7 @@ export const projects = [
     description:
     "The React Calculator is a web application built using the React library, providing users with a sleek and responsive interface for performing basic arithmetic calculations. Designed with a modern and user-friendly layout, this calculator offers an intuitive user experience.",
      image:
-       "https://raw.githubusercontent.com/Divya0606/Portfolio/main/src/images/Calculator.png",
+      "https://github.com/Divya0606/Portfolio/blob/main/src/images/Calculator.png?raw=true",
      //"https://private-user-images.githubusercontent.com/110676881/288301890-41150e81-f332-4067-85f9-ec20e89409aa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTI2OTUsIm5iZiI6MTcwMjExMjM5NSwicGF0aCI6Ii8xMTA2NzY4ODEvMjg4MzAxODkwLTQxMTUwZTgxLWYzMzItNDA2Ny04NWY5LWVjMjBlODk0MDlhYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwODU5NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYjExNWRlNTg2ZTViNTU2NDc3OWIwNzAyNWM3MTczZmEwMDhhYWJlYWNkZmU0ZDUxYzVmOGU2YTk0NWNkOGQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bDXhpL4esvIN3OJB7B_URf-XmaGXwt881VuxoIq-Xo8",
      //"https://github.com/Divya0606/Calculator/assets/110676881/41150e81-f332-4067-85f9-ec20e89409aa",
     tags: [
