@@ -267,12 +267,12 @@ export const projects = [
   },
   {
     id: 1,
-    title: "RealTime-Chat-Appplication",
-    date: "Nov 2023 - Nov,2023",
+    title: "StydyNotion",
+    date: "Nov 2023 - March 2024",
     description:
-      " Design and developed this collaborative tool enables users to engage in instant conversations, fostering real-time communication and collaboration in a seamless and user-friendly environment.",
+      " Developed StudyNotion, a flexible and user-friendly ed-tech platform enabling users to create, access, and evaluate instructional materials. Leveraged ReactJs for the front end to ensure a seamless user experience, while utilizing NodeJS and ExpressJS for the back end to handle user authentication, course management, and more. Employed MongoDB as a NoSQL database to efficiently store course content, user data, and other relevant information.",
     image:
-      "https://github.com/Divya0606/Portfolio/blob/main/src/images/Realtime-chat.png?raw=true",
+      "https://raw.githubusercontent.com/Divya0606/Portfolio/main/src/images/StudyNotion.png",
       //"https://private-user-images.githubusercontent.com/110676881/289260413-ae956c42-4e3b-4ebd-aa2a-d571858a5468.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTMzMzgsIm5iZiI6MTcwMjExMzAzOCwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYwNDEzLWFlOTU2YzQyLTRlM2ItNGViZC1hYTJhLWQ1NzE4NThhNTQ2OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTEwMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjljOWU3MDE2NzlkZmQ5NTg3N2EzNGZiZTNmYmY2NTQ5MzkzM2E3Mzc4OGYwMDlmZDM1NzZhZDE3YjhhZjBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.uPJN-YSvDRvvd6ZxIEWvzCZ_1FidUSyyjlKd0OzVMnE",
     tags: [
       "HTML",
@@ -283,8 +283,8 @@ export const projects = [
       "Node Js",
       "Express Js",
     ],
-    category: "web app",
-    github: "https://github.com/Divya0606/RealTime-Chat-Application",
+    category: "Full Stack App",
+    github: "https://github.com/Divya0606/StudyNotion",
     //webapp: "https://vexa-app.netlify.app/",
   },
   {
@@ -297,7 +297,7 @@ export const projects = [
       "https://github.com/Divya0606/Portfolio/blob/main/src/images/Rzorpay.png?raw=true",
       //"https://private-user-images.githubusercontent.com/110676881/289260949-2f95f54b-6dce-4e77-8d24-5afa188584e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTM3NDgsIm5iZiI6MTcwMjExMzQ0OCwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYwOTQ5LTJmOTVmNTRiLTZkY2UtNGU3Ny04ZDI0LTVhZmExODg1ODRlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTE3MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZTJiZTI0N2UzZjQxMjAxNjNhNzk2Yzg5NWNkMDEwNDViNzk5YjA2YjRkNzBkMGRmNzlhM2Q3ZDg0NjNjYmMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.E5491oqqM3XHRs9GxbyYXW4TEV8E7Vcc7daU1HeR0HE",
     tags: ["HTML", "CSS", "TailWind CSS", "JavaScript"],
-    category: "web app",
+    category: "Front-End app",
     github: "https://github.com/Divya0606/RazorPay-Clone",
     //webapp: "https://brain-tumor.netlify.app/",
     
@@ -316,24 +316,26 @@ export const projects = [
 
       
     tags: ["HTML","CSS" ,"JavaScript"],
-    category: "web app",
+    category: "web app","Front-End"
     github: "https://github.com/Divya0606/Pigment",
     //webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
  
-  // {
-  //   id: 5,
-  //   title: "Todo Web App",
-  //   date: "Jun 2023",
-  //   description:
-  //     " A Todo Web App made with React JS, and HTML,CSS and Java Script. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-  //   image:
-  //     "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-  //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Todo-Web-App",
-  //  // webapp: "https://rishav-react-todo.netlify.app/",
-  // },
+  {
+    id: 5,
+    title: "OREBI",
+    date: "Jun 2024",
+    description:
+      " Designed multiple web pages including Home, Shop, About, Contact, and Journal, each featuring intuitive
+        navigation and engaging user interfaces.Designed and developed responsive user interface for an e-commerce website using React.Js, ensuring
+        seamless user experience across devices.",
+    image:
+      "https://raw.githubusercontent.com/Divya0606/Portfolio/main/src/images/OREBI.png",
+    tags: ["HTML", "Tailwind CSS", "JavaScript", "React.JS","Redux"],
+    category: "web app","Front-End",
+    github: "https://github.com/Divya0606/React-store",
+   // webapp: "https://rishav-react-todo.netlify.app/",
+  },
 
   
 ];
