@@ -245,7 +245,7 @@ export const projects = [
       "JS",
       "React Js"
     ],
-    category: "web app",
+    category: "Front-end app",
     github: "https://github.com/Divya0606/Calculator",
     //webapp: "https://trackify.duckdns.org",
   },
@@ -260,7 +260,7 @@ export const projects = [
     //"https://private-user-images.githubusercontent.com/110676881/289260264-77b1b2fb-c8d9-477e-8fe6-4b10f2b175c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTMxMzEsIm5iZiI6MTcwMjExMjgzMSwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYwMjY0LTc3YjFiMmZiLWM4ZDktNDc3ZS04ZmU2LTRiMTBmMmIxNzVjNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTA3MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOWM1Y2UyNDJjYmQzMTA2ZjkzZWVjNTdkYWQzNzY4YjhiYzI0NDM3ZTU0NmU2OTZmYTEwYTI0OWYwZjEyMTg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.LklJBp0X4C4Jp2cpOOYecTjcznPBBEkrSP7mnlbM6Uk",
      // "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["HTML","CSS","JS","React Js"],
-    category: "web app",
+    category: "Front-End app",
     github: "https://github.com/Divya0606/React-Game",
     //webapp: "https://podstream.netlify.app/",
    
@@ -283,9 +283,9 @@ export const projects = [
       "Node Js",
       "Express Js",
     ],
-    category: "web App",
+    category: "Full stack App",
     github: "https://github.com/Divya0606/StudyNotion",
-    //webapp: "https://vexa-app.netlify.app/",
+    Fullstackapp: "https://study-notion-techskill.vercel.app/",
   },
   {
     id: 2,
@@ -318,7 +318,7 @@ export const projects = [
     tags: ["HTML","CSS" ,"JavaScript"],
     category: "web app",
     github: "https://github.com/Divya0606/Pigment",
-    //webapp: "https://github.com/rishavchanda/Job-finder-App",
+    webapp: "https://pigment-three.vercel.app/",
   },
  
   {
@@ -332,7 +332,7 @@ export const projects = [
     tags: ["HTML", "Tailwind CSS", "JavaScript", "React.JS","Redux"],
     category: "web app",
     github: "https://github.com/Divya0606/React-store",
-   // webapp: "https://rishav-react-todo.netlify.app/",
+    webapp: "https://react-store1-tau.vercel.app/",
   },
 
   
