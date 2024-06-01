@@ -283,7 +283,7 @@ export const projects = [
       "Node Js",
       "Express Js",
     ],
-    category: "Full stack App",
+    category: "Full Stack App",
     github: "https://github.com/Divya0606/StudyNotion",
     webapp: "https://study-notion-techskill.vercel.app/",
   },
