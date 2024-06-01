@@ -285,7 +285,7 @@ export const projects = [
     ],
     category: "Full stack App",
     github: "https://github.com/Divya0606/StudyNotion",
-    Fullstackapp: "https://study-notion-techskill.vercel.app/",
+    webapp: "https://study-notion-techskill.vercel.app/",
   },
   {
     id: 2,
