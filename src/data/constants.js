@@ -283,7 +283,7 @@ export const projects = [
       "Node Js",
       "Express Js",
     ],
-    category: "Full Stack App",
+    category: "web App",
     github: "https://github.com/Divya0606/StudyNotion",
     //webapp: "https://vexa-app.netlify.app/",
   },
@@ -297,7 +297,7 @@ export const projects = [
       "https://github.com/Divya0606/Portfolio/blob/main/src/images/Rzorpay.png?raw=true",
       //"https://private-user-images.githubusercontent.com/110676881/289260949-2f95f54b-6dce-4e77-8d24-5afa188584e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIxMTM3NDgsIm5iZiI6MTcwMjExMzQ0OCwicGF0aCI6Ii8xMTA2NzY4ODEvMjg5MjYwOTQ5LTJmOTVmNTRiLTZkY2UtNGU3Ny04ZDI0LTVhZmExODg1ODRlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwOVQwOTE3MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZTJiZTI0N2UzZjQxMjAxNjNhNzk2Yzg5NWNkMDEwNDViNzk5YjA2YjRkNzBkMGRmNzlhM2Q3ZDg0NjNjYmMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.E5491oqqM3XHRs9GxbyYXW4TEV8E7Vcc7daU1HeR0HE",
     tags: ["HTML", "CSS", "TailWind CSS", "JavaScript"],
-    category: "Front-End app",
+    category: "web app",
     github: "https://github.com/Divya0606/RazorPay-Clone",
     //webapp: "https://brain-tumor.netlify.app/",
     
@@ -316,7 +316,7 @@ export const projects = [
 
       
     tags: ["HTML","CSS" ,"JavaScript"],
-    category: "web app","Front-End"
+    category: "web app",
     github: "https://github.com/Divya0606/Pigment",
     //webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
@@ -326,13 +326,11 @@ export const projects = [
     title: "OREBI",
     date: "Jun 2024",
     description:
-      " Designed multiple web pages including Home, Shop, About, Contact, and Journal, each featuring intuitive
-        navigation and engaging user interfaces.Designed and developed responsive user interface for an e-commerce website using React.Js, ensuring
-        seamless user experience across devices.",
+      " Designed multiple web pages including Home, Shop, About, Contact, and Journal, each featuring intuitive navigation and engaging user interfaces.Designed and developed responsive user interface for an e-commerce website using React.Js, ensuring seamless user experience across devices.",
     image:
       "https://raw.githubusercontent.com/Divya0606/Portfolio/main/src/images/OREBI.png",
     tags: ["HTML", "Tailwind CSS", "JavaScript", "React.JS","Redux"],
-    category: "web app","Front-End",
+    category: "web app",
     github: "https://github.com/Divya0606/React-store",
    // webapp: "https://rishav-react-todo.netlify.app/",
   },
